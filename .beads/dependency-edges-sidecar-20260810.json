@@ -1,0 +1,26 @@
+[
+ {
+  "issue_id": "bd-38oh",
+  "dangling": true,
+  "depends_on_id": "bd-2s2",
+  "type": "discovered-from",
+  "created_at": "2026-01-25T10:27:57.177064248Z",
+  "created_by": "ubuntu"
+ },
+ {
+  "issue_id": "bd-3rre",
+  "dangling": true,
+  "depends_on_id": "bd-2s2",
+  "type": "discovered-from",
+  "created_at": "2026-01-25T10:28:10.774490250Z",
+  "created_by": "ubuntu"
+ },
+ {
+  "issue_id": "bd-8po2",
+  "dangling": true,
+  "depends_on_id": "bd-2s2",
+  "type": "discovered-from",
+  "created_at": "2026-01-25T10:28:23.198298307Z",
+  "created_by": "ubuntu"
+ }
+]
